@@ -62,6 +62,24 @@ For the Python version:
     ```bash
     python quiz.py
     ```
+    
+### 4. Guess the Number Game
+A fun and interactive game where the user tries to guess a randomly generated number within a certain range.
 
+- **Technologies Used:** Python
+- **Features:**
+  - Randomly generates a number between a given range
+  - User gets multiple attempts to guess the number
+  - Provides hints like "Too High" or "Too Low" after each guess
+
+#### How to Run:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Prashanthsyntax/TicTacToe-Game.git
+    ```
+2. Navigate to the Guess the Number directory and run the Python file:
+    ```bash
+    python guess_no_project.py
+    ```
 
 Feel free to modify and improve the code as needed. I am always open to feedback and collaboration!
